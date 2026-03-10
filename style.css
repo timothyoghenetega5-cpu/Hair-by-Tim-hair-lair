@@ -1,0 +1,696 @@
+body{
+		background-color: rgba(255, 105, 180, 0.5);
+		opacity: 35;
+}
+
+.header-container{
+		max-height:1000px;
+		max-width: 500px;
+		
+}
+
+.header1{
+		align-content:center;
+		display:flex;
+		flex-direction:row;
+		gap:10px;
+		justify-content: center;
+		background-color:black;
+		margin-bottom:0px;
+		margin-top:0px;
+		width: 1000px;
+		padding: 8px;
+		
+}
+
+
+.h1{
+	color:white;
+	background-color:#ff4d4d;
+	border-collapse:collapse;
+	border-radius:20px;
+	width:300px;
+	height:50px;
+	padding-bottom:20px;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left:30px;
+	text-align:center;
+}
+
+.hh1{
+	color:white;
+	font-size:bold;
+	text-align:center;
+	margin-top:30px;
+	margin-left:20px;
+
+}
+
+.hero-section{
+		position: relative;
+		width: 1000px;
+  		height: 800px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 0px;
+		margin-top: 0px;
+		
+}
+
+.frame{
+		width: 1000px;
+  		 height: 800px;
+		padding: 10px;
+  		background-image: url('mainframe.jpeg');
+  background-size: cover;
+
+}
+
+.frame-overlay{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 1000px;
+  		height: 800px;
+		padding: 8px;
+  background-color: rgba(0, 0, 0, 0.4);
+		transition: background-color 0.5s ease; 
+}
+
+.herot1{
+		color: black;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 550px;
+		margin-left: 250px;
+		border: 3px solid white;
+		border-radius: 20px;
+		width: 450px;
+		background-color: #F5F5F5;
+	
+}
+
+.main-container{
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		
+}
+
+.mtext1{
+		position: relative;
+		display: column;
+		text-align: center;
+		align-content: center;
+		width: 1000px;		
+
+}
+
+.mframe-container{
+			position: relative;
+		width: 1000px;
+  		height: 800px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 0px;
+		margin-top: 0px;
+
+
+
+}
+
+.mainframe{
+			width: 1000px;
+  		 height: 800px;
+		padding: 10px;
+  		background-image: url('logo2.jpeg');
+  background-size: cover;
+
+}
+
+.main-overlay{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 1000px;
+  		height: 900px;
+		padding: 8px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+
+}
+
+.overlay-text{
+			color: white;
+		font-size: 5rem;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 320px;
+		margin-left: 35px;
+		margin-top: 100px
+		width: 500px;
+		opacity: 
+
+}
+
+.mtext3{
+		position: relative;
+		display: column;
+		text-align: center;
+		align-content: center;
+		width: 1000px;
+
+}
+
+.works-container{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+
+
+}
+
+.img1{
+	width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('haircut.jpeg');
+  background-size: cover;
+
+
+}
+
+.overlay-text1{
+	position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+
+}
+
+.m1{
+	 	color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+}
+
+.work-container2{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img2{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('hairdry.jpeg');
+  background-size: cover;
+
+
+}
+
+.overlay-text2{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+
+}
+
+.mm2{	
+	color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+}
+
+
+.work-container3{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img3{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('hairwash.jpeg');
+  background-size: cover;
+
+}
+
+.overlay-text3{
+			position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+}
+
+.mm3{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+
+}
+
+.work-container4{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img4{
+ width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('nails.jpeg');
+  background-size: cover;
+
+}
+
+.overlay-text4{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+
+}
+
+.mm4{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+
+}
+
+.work-container5{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img5{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('wig1.jpeg');
+  background-size: cover;
+
+
+}
+
+.overlay-text5{
+			position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+}
+
+.mm5{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+}
+
+
+.work-container6{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+
+.img6{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('wig2.jpeg');
+  background-size: cover;
+
+}
+
+.overlay-text6{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+}
+
+.mm6{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+}
+
+.work-container7{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img7{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('wig3.jpeg');
+  background-size: cover;
+
+}
+
+.overlay-text7{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+}
+
+.mm7{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+
+
+}
+
+.work-container8{
+			position: relative;
+			display: flex;
+			flex-direction: column;
+			column-gap: 10px;
+			c
+			align-content: center;
+		width: 800px;
+  		height: 600px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+
+.img8{
+		width: 800px;
+  		 height: 600px;
+		padding: 10px;
+  		background-image: url('wig4.jpeg');
+  background-size: cover;
+
+
+}
+
+.overlay-text8{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 800px;
+  		height: 600px;
+		padding: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+
+}
+
+.mm8{
+		color: white;
+		font-size: 60px;
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin-top: 400px;
+		margin-left: 150px;
+		margin-bottom: 0px;
+		width: 500px;
+}
+
+queen-section{
+		position: relative;
+		width: 1000px;
+  		height: 800px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 0px;
+		margin-top: 0px;
+
+
+}
+
+.queen-container{
+		position: relative;
+		width: 1000px;
+  		height: 800px;
+ 		overflow: hidden;
+		padding: 8px;
+		margin-left: 0px;
+		margin-top: 0px;
+		
+}
+
+.queenframe{
+		width: 1000px;
+  		 height: 800px;
+		padding: 10px;
+  		background-image: url('hands .jpeg');
+  background-size: cover;
+
+
+}
+
+.queen-overlay{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 1000px;
+  		height: 800px;
+		padding: 8px;
+  background-color: transparent;
+
+}
+
+.queentext{
+		color: black;
+		font-size: 50px;
+		position: relative;
+		justify-content: left;
+		align-items: left;
+		text-align: center;
+		margin-top: 50px;
+		margin-left: 200px;
+		margin-bottom: 0px;
+		width: 500px;
+		opacity: 0.5;
+}
+
+.footer1{
+		position: relative;
+		width: 1000px;
+  		height: 90rem;
+		font-size: 5rem;
+ 		border: 1px solid #ff8fab;
+border-collapse: collapse;
+		border-radius: 20px;
+		background-color: rgba(255, 105, 180, 0.5)
+		opacity: 35;
+		padding: 10px;
+		margin-left: 0px;
+		margin-top: 0px;
+		
+}
+
+input{
+  width: 350px;
+  padding: 12px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #ff8fab;
+  font-size: 16px;
+}
+
+label{
+  display:block;
+  margin-top:10px;
+  font-size:2rem;
+}
+
+button{
+  background:black;
+  color:white;
+  border:none;
+  padding:10px 20px;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
